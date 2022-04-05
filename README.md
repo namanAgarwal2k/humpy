@@ -1,6 +1,6 @@
 # humpy
 
-A new Flutter application.
+A Meal Application
 
 ## Getting Started
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+#Screen Shots
+
+<img src="https://github.com/bumasoft/flutter_meals/blob/master/assets/images/Screenshot_android1.png" width="220" height="400" /> <img src="https://github.com/bumasoft/flutter_meals/blob/master/assets/images/Screenshot_android2.png" width="220" height="400" />
+<img src="https://github.com/bumasoft/flutter_meals/blob/master/assets/images/Screenshot_android3.png" width="220" height="400" />
+<img src="https://github.com/bumasoft/flutter_meals/blob/master/assets/images/Screenshot_android4.png" width="220" height="400" />
+<img src="https://github.com/bumasoft/flutter_meals/blob/master/assets/images/Screenshot_android5.png" width="220" height="400" />
